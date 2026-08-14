@@ -1,4 +1,4 @@
-# Hi, I'm <name> 👋
+# Hi, I'm <ranjit kumar yadav> 👋
 
 ### 💻 Software Engineer | Full-Stack Developer | CSE Student
 
