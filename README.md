@@ -1,217 +1,192 @@
-<!-- HEADER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u?username=Ranjit-dev-9816&size=200" width="150" height="150" style="border-radius: 50%;" />
+# Ranjit Kumar Yadav
+
+### Computer Science & Engineering Student | Software Development | AI
+
+<p>
+  <a href="https://github.com/Ranjit-dev-9816">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ranjit-kumar-yadav-6477a0384/">LinkedIn</a>
 </p>
 
-<h1 align="center">Ranjit Kumar Yadav</h1>
-
-<p align="center">
-  <b>Software Engineer in the Making • CSE Student • AI & Full-Stack Developer</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ranjit-dev-9816">
-    <img src="https://img.shields.io/badge/GitHub-Ranjit--dev--9816-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ranjit-kumar-yadav-6477a0384/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranjit%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Hi! I'm **Ranjit Kumar Yadav**, a **3rd-semester Computer Science & Engineering student** at **Swami Vivekanand Institute of Engineering and Technology**.
+I am a **3rd-semester Computer Science & Engineering student** at **Swami Vivekanand Institute of Engineering and Technology**, focused on building a strong foundation in software engineering and computer science.
 
-I'm passionate about **Software Development, Artificial Intelligence, Full-Stack Development, and Problem Solving**.
+My current areas of focus include **Data Structures & Algorithms, Full-Stack Development, Backend Development, Databases, and Artificial Intelligence**.
 
-I enjoy learning new technologies and turning what I learn into practical projects.
+I enjoy understanding problems at a fundamental level and converting ideas into practical software through consistent learning and project development.
+
+---
+
+## Technical Skills
+
+**Languages**
+
+`C++` `Java` `Python` `JavaScript` `TypeScript`
+
+**Frontend**
+
+`HTML` `CSS` `React`
+
+**Databases**
+
+`MongoDB` `MySQL` `DBMS`
+
+**Development Tools**
+
+`Git` `GitHub` `VS Code`
+
+**Core Computer Science**
+
+`Data Structures & Algorithms` `Object-Oriented Programming` `Database Management Systems`
+
+---
+
+## Featured Project
+
+### AI Resume Analyzer
+
+An AI-powered application designed to analyze resumes against job requirements and provide actionable feedback.
+
+**Technology:** Python · AI · React · MongoDB
+
+#### Core capabilities
+
+* Resume upload and processing
+* AI-based resume analysis
+* Automatic skill extraction
+* Resume scoring
+* Job-description matching
+* Missing-skill identification
+* ATS-oriented analysis
+* Resume improvement recommendations
+
+#### System workflow
 
 ```text
-🎓 CSE Student              →  3rd Semester
-💻 Career Goal              →  Software Engineer
-🤖 Interest                 →  Artificial Intelligence
-🌐 Development              →  Full-Stack Development
-🧠 Problem Solving          →  Data Structures & Algorithms
-🗄️ Databases                →  MongoDB • DBMS
-🚀 Mindset                  →  Learn • Build • Improve
+Resume
+   │
+   ▼
+Document Processing
+   │
+   ▼
+AI Analysis
+   │
+   ├── Skill Extraction
+   ├── Resume Evaluation
+   └── Content Analysis
+   │
+   ▼
+Job Description Matching
+   │
+   ├── Matching Skills
+   └── Missing Skills
+   │
+   ▼
+ATS / Resume Score
+   │
+   ▼
+Actionable Recommendations
 ```
 
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### 🤖 AI & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🔧 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+The project reflects my interest in combining **AI, software development, databases, and user-focused problem solving** into a practical application.
 
 ---
 
-# 🚀 Featured Project
+## What I'm Currently Working On
 
-## 🤖 AI Resume Analyzer
+* Strengthening **Data Structures & Algorithms**
+* Building projects with **JavaScript, TypeScript, Python and React**
+* Improving **backend and database development**
+* Learning more about **Artificial Intelligence**
+* Developing stronger **software engineering fundamentals**
 
-An AI-powered application that analyzes resumes and helps candidates understand how well their resume matches a target job.
+---
 
-### ✨ Key Features
+## Computer Science Foundations
 
-| Feature             | Description                                 |
-| ------------------- | ------------------------------------------- |
-| 📄 Resume Upload    | Upload and process your resume              |
-| 🔍 Resume Analysis  | Analyze resume content using AI             |
-| 🧠 Skill Extraction | Identify technical and professional skills  |
-| 📊 Resume Score     | Evaluate the overall resume                 |
-| 🎯 Job Matching     | Compare resume with a job description       |
-| ❌ Missing Skills    | Identify skills missing for the target role |
-| 📈 ATS Analysis     | Analyze resume compatibility with ATS       |
-| 💡 Suggestions      | Provide improvement recommendations         |
+Currently building deeper understanding of:
 
-### 🧰 Built With
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating System fundamentals
+* Computer Networks fundamentals
+* Software Engineering principles
+* Problem Solving
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,react,mongodb" />
-</p>
+---
 
-**Python • Artificial Intelligence • React • MongoDB**
+## Development Approach
 
-### 🔄 Application Flow
+I follow a simple engineering loop:
 
 ```text
-                📄 Resume
-                    │
-                    ▼
-             📤 Upload Resume
-                    │
-                    ▼
-             🤖 AI Processing
-                    │
-                    ▼
-          🧠 Extract Information
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-    📊 Resume Score      🎯 Job Matching
-          │                   │
-          └─────────┬─────────┘
-                    ▼
-            ❌ Missing Skills
-                    │
-                    ▼
-             📈 ATS Analysis
-                    │
-                    ▼
-            💡 Suggestions
+Understand the Problem
+        ↓
+Design the Solution
+        ↓
+Implement
+        ↓
+Test & Debug
+        ↓
+Improve
+        ↓
+Document
 ```
 
----
-
-# 📚 Currently Learning
-
-* 🧠 Data Structures & Algorithms
-* 🤖 Artificial Intelligence
-* ⚛️ React
-* 🌐 Full-Stack Development
-* ⚙️ Backend Development
-* 🗄️ MongoDB & DBMS
-* 🔷 TypeScript
-* ☕ Java
-* 💻 Software Engineering
+My goal is not just to learn a technology, but to understand **why it works, where it is useful, and how to build reliable software with it**.
 
 ---
 
-# 🎯 2026 Goals
+## Current Goals
 
-```text
-☐ Master Data Structures & Algorithms
-☐ Build strong Full-Stack projects
-☐ Improve Backend Development
-☐ Strengthen AI fundamentals
-☐ Build production-ready applications
-☐ Contribute to Open Source
-☐ Grow as a Software Engineer
-```
+* Build strong fundamentals in Computer Science
+* Become highly proficient in DSA and problem solving
+* Develop production-quality Full-Stack applications
+* Strengthen backend and database expertise
+* Build meaningful AI-powered applications
+* Contribute to Open Source
+* Prepare for Software Engineering opportunities
 
 ---
 
-# 📊 GitHub Statistics
+## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjit-dev-9816&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-dev-9816&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjit-dev-9816&show_icons=true&hide_border=true&theme=default" height="160" />
 
-# 🔥 Contribution Streak
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-dev-9816&layout=compact&hide_border=true&theme=default" height="160" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ranjit-dev-9816&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-# 🧠 My Developer Philosophy
+## Connect
 
-<p align="center">
-
-### Learn → Build → Break → Debug → Improve → Repeat 🔁
-
-</p>
-
-I believe that becoming a good developer isn't about knowing everything.
-
-It's about **learning continuously, building real things, solving problems, and improving every day.**
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Ranjit-dev-9816">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ranjit-kumar-yadav-6477a0384/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💻 Code. Build. Learn. Grow. 🚀
+**Building strong fundamentals today to engineer better software tomorrow.**
 
-⭐ **Thanks for visiting my profile!**
-
-</p>
+</div>
