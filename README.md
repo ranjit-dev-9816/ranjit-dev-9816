@@ -1,92 +1,217 @@
-# Hi, I'm <ranjit kumar yadav> 👋
+<!-- HEADER -->
 
-### 💻 Software Engineer | Full-Stack Developer | CSE Student
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u?username=Ranjit-dev-9816&size=200" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
-I'm a **3rd-semester Computer Science student** passionate about building software, learning new technologies, and solving programming problems.
+<h1 align="center">Ranjit Kumar Yadav</h1>
 
-I enjoy working with **JavaScript, TypeScript, Python, C++, databases**, and modern web technologies.
+<p align="center">
+  <b>Software Engineer in the Making • CSE Student • AI & Full-Stack Developer</b>
+</p>
 
----
-
-## 🚀 About Me
-
-* 🎓 Currently in my **3rd semester of Computer Science**
-* 💻 Aspiring **Software Engineer**
-* 🌱 Currently improving my **DSA & Full-Stack Development** skills
-* 🧠 Interested in **Software Development, Backend & AI**
-* 🔨 I love building projects and learning by doing
-* 🎯 Goal: Become a strong Software Engineer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p align="center">
+  <a href="https://github.com/Ranjit-dev-9816">
+    <img src="https://img.shields.io/badge/GitHub-Ranjit--dev--9816-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ranjit-kumar-yadav-6477a0384/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ranjit%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 👨‍💻 About Me
 
-* Data Structures & Algorithms
-* Full-Stack Web Development
-* TypeScript
-* Backend Development
-* Database Management Systems
-* Software Engineering Concepts
+Hi! I'm **Ranjit Kumar Yadav**, a **3rd-semester Computer Science & Engineering student** at **Swami Vivekanand Institute of Engineering and Technology**.
 
----
+I'm passionate about **Software Development, Artificial Intelligence, Full-Stack Development, and Problem Solving**.
 
-## 💡 What I'm Working On
+I enjoy learning new technologies and turning what I learn into practical projects.
 
-🔹 Building web development projects
-🔹 Practicing DSA and problem solving
-🔹 Learning backend technologies
-🔹 Improving my programming and software engineering skills
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjit-dev-9816\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit-dev-9816\&layout=compact\&theme=tokyonight)
+```text
+🎓 CSE Student              →  3rd Semester
+💻 Career Goal              →  Software Engineer
+🤖 Interest                 →  Artificial Intelligence
+🌐 Development              →  Full-Stack Development
+🧠 Problem Solving          →  Data Structures & Algorithms
+🗄️ Databases                →  MongoDB • DBMS
+🚀 Mindset                  →  Learn • Build • Improve
+```
 
 ---
 
-## 🔥 GitHub Streak
+# 🛠️ Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ranjit-dev-9816\&theme=tokyonight)
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🤖 AI & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Project
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ranjit-dev-9816)
+## 🤖 AI Resume Analyzer
+
+An AI-powered application that analyzes resumes and helps candidates understand how well their resume matches a target job.
+
+### ✨ Key Features
+
+| Feature             | Description                                 |
+| ------------------- | ------------------------------------------- |
+| 📄 Resume Upload    | Upload and process your resume              |
+| 🔍 Resume Analysis  | Analyze resume content using AI             |
+| 🧠 Skill Extraction | Identify technical and professional skills  |
+| 📊 Resume Score     | Evaluate the overall resume                 |
+| 🎯 Job Matching     | Compare resume with a job description       |
+| ❌ Missing Skills    | Identify skills missing for the target role |
+| 📈 ATS Analysis     | Analyze resume compatibility with ATS       |
+| 💡 Suggestions      | Provide improvement recommendations         |
+
+### 🧰 Built With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,mongodb" />
+</p>
+
+**Python • Artificial Intelligence • React • MongoDB**
+
+### 🔄 Application Flow
+
+```text
+                📄 Resume
+                    │
+                    ▼
+             📤 Upload Resume
+                    │
+                    ▼
+             🤖 AI Processing
+                    │
+                    ▼
+          🧠 Extract Information
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+    📊 Resume Score      🎯 Job Matching
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+            ❌ Missing Skills
+                    │
+                    ▼
+             📈 ATS Analysis
+                    │
+                    ▼
+            💡 Suggestions
+```
 
 ---
 
-### ⭐ "Learning, Building, Improving — One Project at a Time."
+# 📚 Currently Learning
 
-Thanks for visiting my profile! 🚀
+* 🧠 Data Structures & Algorithms
+* 🤖 Artificial Intelligence
+* ⚛️ React
+* 🌐 Full-Stack Development
+* ⚙️ Backend Development
+* 🗄️ MongoDB & DBMS
+* 🔷 TypeScript
+* ☕ Java
+* 💻 Software Engineering
 
+---
+
+# 🎯 2026 Goals
+
+```text
+☐ Master Data Structures & Algorithms
+☐ Build strong Full-Stack projects
+☐ Improve Backend Development
+☐ Strengthen AI fundamentals
+☐ Build production-ready applications
+☐ Contribute to Open Source
+☐ Grow as a Software Engineer
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranjit-dev-9816&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-dev-9816&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ranjit-dev-9816&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🧠 My Developer Philosophy
+
+<p align="center">
+
+### Learn → Build → Break → Debug → Improve → Repeat 🔁
+
+</p>
+
+I believe that becoming a good developer isn't about knowing everything.
+
+It's about **learning continuously, building real things, solving problems, and improving every day.**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Ranjit-dev-9816">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ranjit-kumar-yadav-6477a0384/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 Code. Build. Learn. Grow. 🚀
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
