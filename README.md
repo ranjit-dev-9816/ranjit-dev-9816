@@ -231,17 +231,7 @@ Currently strengthening my fundamentals in:
 
 </div>
 
----
 
-# 🏆 GitHub Profile
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ranjit-dev-9816&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
